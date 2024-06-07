@@ -3,7 +3,7 @@
 
 ## ⌲ Premium Grocery Scraper
 
-[Try it out today on Apify! ](https://apify.com/radeance/wellfound-job-listings-scraper)
+[Try it out today for free on Apify! ](https://apify.com/radeance/tesco-scraper)
 
 ![Tesco Grocery Products](https://i.imgur.com/0bWNJ56.png)
 
@@ -229,4 +229,4 @@ You can also contact us directly for custom integrations or project use cases at
 
 Thank you and happy scraping!
 
-[Try it out today on Apify! ](https://apify.com/radeance/wellfound-job-listings-scraper)
+[Try it out today for free on Apify! ](https://apify.com/radeance/tesco-scraper)
