@@ -5,7 +5,10 @@
 
 [Try it out today for free on Apify! ](https://apify.com/radeance/tesco-scraper)
 
-![Tesco Grocery Products](https://i.imgur.com/0bWNJ56.png)
+![Tesco Grocery Products](https://i.imgur.com/G7vkE3y.png)
+
+| Try our other scrapers ► | [Wellfound Premium Job Scraper](https://apify.com/radeance/wellfound-job-listings-scraper) | [Glassdoor Scraper](https://github.com/Radeance/glassdoor-scraper-public)| [Similarweb Scraper](https://apify.com/radeance/similarweb-scraper)|
+|----------------------------|-----------------------------|-----------------------------|-----------------------------|
 
 ### What does Tesco Discover Grocery Scraper do?
 
@@ -13,6 +16,15 @@ Tesco Discover Grocery Scraper is a comprehensive tool that extracts grocery pro
 
 This premium blazing fast and powerful tool is designed to effortlessly scrape grocery products from Tesco UK. It simply is the **best grocery product scraper on the market**.
 Perfect for individuals, market researchers and analysts, as well as retail businesses.
+
+
+
+## Simple to set up
+1. Create a free Apify Account
+2. Go to the Inputs Tab on this Scraper
+3. Enter Product Detail Page Urls or Category Listing Urls
+4. Press Start
+5. Happy scraping !
 
 
 ## Key features
@@ -37,12 +49,14 @@ Perfect for individuals, market researchers and analysts, as well as retail busi
 - **⚡ Fast and Efficient:**
   - Extremely fast, scraping 1000 data entries in a minute
 <br>
-- **📝 Product Listings Support**
-  - Listings support including pagination coming very soon
+- **📝 Product Category Listings Support**
+  - Scrape grocery product categories by providing one or multiple category urls
+  - Automatic pagination until `max_items` scraping limit is reached
 <br>
 
 - **📊 Flexible Data Output**
   - Outputs data in various formats including CSV, XLSX, JSON, JSONL, XML, and RSS
+
 
 ### Use Cases | What it can be used for
 
